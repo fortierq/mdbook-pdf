@@ -19,5 +19,7 @@ You can then see two pages:
     window.onload = () => document.getElementById("pdf-js-viewer").src = url("paper.pdf") + "#zoom=page-width&pagemode=none";
 </script>
 ```
+Just change `url("paper.pdf")` to load another pdf file.
+
 
 The table of content can be modified inside src/SUMMARY.md.
