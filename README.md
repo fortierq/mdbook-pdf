@@ -22,4 +22,4 @@ You can then see two pages:
 Just change `url("paper.pdf")` to load another pdf file.
 
 
-The table of content can be modified inside src/SUMMARY.md.
+The table of contents can be modified inside src/SUMMARY.md.
