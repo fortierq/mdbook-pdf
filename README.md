@@ -2,6 +2,8 @@
 
 This repository demonstrates how to use pdf.js inside mdbook.  
 
+# Get started with a simple example
+
 Steps:
 - Fork this repository
 - [Install mdbook](https://rust-lang.github.io/mdBook/guide/installation.html)
@@ -21,5 +23,8 @@ You can then see two pages:
 ```
 Just change `url("paper.pdf")` to load another pdf file.
 
-
 The table of contents can be modified inside src/SUMMARY.md.
+
+# Complete example
+
+Complete example for a course: https://fortierq.github.io/oc-m1-2021
