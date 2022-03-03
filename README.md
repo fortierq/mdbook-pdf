@@ -2,7 +2,7 @@
 
 This repository demonstrates how to use pdf.js inside mdbook.  
 
-# Get started with a simple example
+## Get started with a simple example
 
 Steps:
 - Fork this repository
@@ -25,6 +25,6 @@ Just change `url("paper.pdf")` to load another pdf file.
 
 The table of contents can be modified inside src/SUMMARY.md.
 
-# Complete example
+## Complete example
 
 Complete example for a course: https://fortierq.github.io/oc-m1-2021
