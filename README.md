@@ -2,7 +2,7 @@
 
 This repository demonstrates how to use pdf.js inside mdbook.  
 
-## Get started with a simple example
+## Get started locally with a simple example
 
 Steps:
 - Fork this repository
@@ -24,6 +24,11 @@ You can then see two pages:
 Just change `url("paper.pdf")` to load another pdf file.
 
 The table of contents can be modified inside src/SUMMARY.md.
+
+## Publish to GitHub Pages
+
+To publish on GitHub Pages, go to Settings -> Pages, select "Branch: gh-pages" and "Save".  
+The next commit will publish your site (via .github/workflows/mdbook.yml)
 
 ## Complete example
 
